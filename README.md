@@ -9,8 +9,7 @@
 
 
 ## 🚀 Linguagens de Programação
-<img src="c_original_logo_icon_146611.png" width="50" alt="logo do C"><br><br>
-
+<img src="c_original_logo_icon_146611.png" width="50" alt="logo do C"> <img src="logo-css-3-2048.png" width="50" alt="logo do CSS"><br><br>
 
 ## 📫 Contato
 
