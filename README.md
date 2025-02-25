@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou Ana Paula</h1>
 
-<!--
-**AnaPaulaSPin/AnaPaulaSPin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Estudante de Sistema de Informação na UNEB <br> 🌍 Apaixonado por Tecnologia
+</p><br><br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,php)](https://skillicons.dev)<br><br>
+
+
+## 📫 Contato
+
+
+
+
