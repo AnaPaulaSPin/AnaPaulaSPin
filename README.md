@@ -12,11 +12,7 @@ Estou no começo da minha jornada como programadora e no terceiro semestre da fa
 Estou compartilhando meus projetos aqui no GitHub, já que quero acompanhar meu progresso e continuar aprendendo e compartilhando com a comunidade.
 
 ## 🚀 Linguagens de Programação
-<img src="c_original_logo_icon_146611.png" width="50" alt="logo do C"> 
-<img src="Other-html-5-icon.png" width="50" alt="logo do HTML"> 
-<img src="logo-css-3-2048.png" width="50" alt="logo do CSS">
-<img src="java-icon.png" width="50" alt="logo do Java"> 
-<img src="python-icon.png" width="50" alt="logo do Python"><br><br>
+<img src="c_original_logo_icon_146611.png" width="50" alt="logo do C">  <img src="Other-html-5-icon.png" width="50" alt="logo do HTML"> <img src="logo-css-3-2048.png" width="50" alt="logo do CSS"><img src="java-icon.png" width="50" alt="logo do Java"> <img src="python-icon.png" width="50" alt="logo do Python"><br><br>
 
 
 ## 🛠️ Ferramentas e Tecnologias
